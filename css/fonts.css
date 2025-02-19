@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'dancing_scriptregular';
+    src: url('../fonts/dancingscript-regular.woff2') format('woff2'),
+         url('../fonts/dancingscript-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'dancing_scriptbold';
+    src: url('../fonts/dancingscript-bold.woff2') format('woff2'),
+         url('../fonts/dancingscript-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaabold';
+    src: url('../fonts/comfortaa-bold.woff2') format('woff2'),
+         url('../fonts/comfortaa-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaalight';
+    src: url('../fonts/comfortaa-light.woff2') format('woff2'),
+         url('../fonts/comfortaa-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'comfortaaregular';
+    src: url('../fonts/comfortaa-regular.woff2') format('woff2'),
+         url('../fonts/comfortaa-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'patrick_handregular';
+    src: url('../fonts/patrickhand-regular.woff2') format('woff2'),
+         url('../fonts/patrickhand-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'prataregular';
+    src: url('../fonts/prata-regular.woff2') format('woff2'),
+         url('../fonts/prata-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'pacificoregular';
+    src: url('../fonts/pacifico-regular.woff2') format('woff2'),
+         url('../fonts/pacifico-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UVN Buc Thu';
+    src: url('../fonts/UVN_Buc_Thu.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Miller Banner';
+    src: url('../fonts/SVN-Miller-Banner.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
